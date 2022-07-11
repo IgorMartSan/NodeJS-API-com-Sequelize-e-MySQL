@@ -1,0 +1,6 @@
+Bibliotecas utilizadas
+
+
+Express, body-parser, nodemon
+
+Para iniciar o servidor execute o comando: npm run start
